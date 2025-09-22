@@ -2,8 +2,8 @@ const settings = {
   packname: 'Supreme',
   author: '‎supreme',
   botName: "𝐉ᴜɴᴇ 𝐌ᴅ",
-  botOwner: 'supreme', // Your name
-  ownerNumber: '25479201944', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'Atoshaell', // Your name
+  ownerNumber: '255694258890', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
